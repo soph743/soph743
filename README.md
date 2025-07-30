@@ -26,7 +26,7 @@ Cloud & Tools: Docker, GitHub Actions, Power BI, Tableau, Vercel
 🔹 Rental Price Predictor (in development) – generated using image input, CNN built in Jupyter + Keras
 
 ## 🔋 Fellowship Projects
-View my Machine Learning Foundations projects [here](), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
+View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
 
 ## ⌛️ Earlier Projects
 🔸 Screentime Reduction Tool - calculates a schedule for gradually decreasing screentime
