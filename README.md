@@ -6,7 +6,6 @@
 
 💡 AI/ML | Computer Vision | Software Engineering | Data Science
 
-
 ## 🔍 Summary
 As an undergraduate fellow and researcher specializing in AI systems, software development, and computer vision, I am driven by creating tools that maximize scientific, social, and humanitarian impact.
 
@@ -25,6 +24,9 @@ Cloud & Tools: Docker, GitHub Actions, Power BI, Tableau, Vercel
 🔹 Computer Science Study Planner – Python tool for academic & course planning 
 
 🔹 Rental Price Predictor (in development) – generated using image input, CNN built in Jupyter + Keras
+
+## 🔋 Fellowship Projects
+View my Machine Learning Foundations projects [here](), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
 
 ## ⌛️ Earlier Projects
 🔸 Screentime Reduction Tool - calculates a schedule for gradually decreasing screentime
