@@ -16,16 +16,16 @@ Frameworks: React, Flask
 
 AI/ML Tools: Hugging Face, Scikit-learn, SciPy, Keras
 
-Cloud & Tools: Docker, GitHub Actions, Power BI, Tableau, Vercel
+Cloud & Tools: Docker, Git, GCP
 
 ## 🚀 Notable Projects
-🔹 GazaChat (in development) – offline-first instant messenger built with React + WebRTC
+🔹 Mitosis Detector - A computer vision model to detect mitotic cells in pathological slides (BTTAI Group Project)
 
 🔹 Computer Science Study Planner – Python tool for academic & course planning 
 
 🔹 Rental Price Predictor (in development) – generated using image input, CNN built in Jupyter + Keras
 
-## 🔋 Fellowship Projects
+## 🔋 BTTAI Fellowship Projects
 View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
 
 ## ⌛️ Earlier Projects
@@ -37,7 +37,5 @@ View my Machine Learning Foundations projects [here](https://github.com/soph743/
 
 ## 🧪 Currently Exploring
 🔹 Adapting computer vision models to track the movement of clownfish schools (research lab @ UMB)
-
-🔹 Lightweight offline communication with Bluetooth mesh technology
 
 ### Thanks for reading! Feel free to check out my repos or connect with me ✨
