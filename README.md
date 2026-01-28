@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sophia Cherkaoui
 
-🎓 Bachelor's in Computer Science @ UMB (senior) | GPA: 3.6
+🎓 Bachelor's in Computer Science @ UMB (senior)
 
 📍 Boston, MA | ✉️ sophia.cherkaoui001@umb.edu | 🌐 [Portfolio](https://github.com/soph743) | 💼 [LinkedIn](www.linkedin.com/in/sophiacherkaoui)
 
@@ -23,8 +23,6 @@ Cloud & Tools: Docker, Git, GCP
 
 🔹 Computer Science Study Planner – Python tool for academic & course planning 
 
-🔹 Rental Price Predictor (in development) – generated using image input, CNN built in Jupyter + Keras
-
 ## 🔋 BTTAI Fellowship Projects
 View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
 
@@ -36,6 +34,6 @@ View my Machine Learning Foundations projects [here](https://github.com/soph743/
 🔸 Gift Exchange Site - Flask-based site for choosing partners to exchange gifts (secret Santa style)
 
 ## 🧪 Currently Exploring
-🔹 Adapting computer vision models to track the movement of clownfish schools (research lab @ UMB)
+🔹 Adapting computer vision models to track the movement of fish schools (research lab @ UMB)
 
 ### Thanks for reading! Feel free to check out my repos or connect with me ✨
