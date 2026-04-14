@@ -21,7 +21,7 @@ Cloud & Tools: Docker, Git, GCP
 ## 🚀 Notable Projects
 🔹 Mitosis Detector - A computer vision model to detect mitotic cells in pathological slides (BTTAI Group Project)
 
-🔹 Computer Science Study Planner – Python tool for academic & course planning 
+🔹 Wildfire Prediction Model – Model for predicting wildfires within 72 hours (95% accuracy at WiDS Datathon)
 
 ## 🔋 BTTAI Fellowship Projects
 View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
