@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sophia Cherkaoui
 
-🎓 Bachelor's in Computer Science @ UMB (senior)
+🎓 Bachelor's in Computer Science @ UMass '26 | Incoming SWE Intern @ Pega
 
 📍 Boston, MA | ✉️ sophia.cherkaoui001@umb.edu | 🌐 [Portfolio](https://github.com/soph743) | 💼 [LinkedIn](www.linkedin.com/in/sophiacherkaoui)
 
 💡 AI/ML | Computer Vision | Software Engineering | Data Science
 
 ## 🔍 Summary
-As an undergraduate fellow and researcher specializing in AI systems, software development, and computer vision, I am driven by creating tools that maximize scientific, social, and humanitarian impact.
+As a new grad with work experience in AI systems, software development, and computer vision, I am driven by creating tools that maximize scientific, social, and humanitarian impact.
 
 ## 💼 Tech Stack
 Languages: Java, Python, C/C++, SQL, JavaScript, HTML, CSS
@@ -19,9 +19,14 @@ AI/ML Tools: Hugging Face, Scikit-learn, SciPy, Keras
 Cloud & Tools: Docker, Git, GCP
 
 ## 🚀 Notable Projects
+🔹 Cell Segmentation Prototype - An API for exploring methods of cell detection and segmentation using Python or our web UI (startup client @ IMPACT program)
+
 🔹 Mitosis Detector - A computer vision model to detect mitotic cells in pathological slides (BTTAI Group Project)
 
 🔹 Wildfire Prediction Model – Model for predicting wildfires within 72 hours (95% accuracy at WiDS Datathon)
+
+## 🔋 Capstone
+Learn about the Romberg test for balance and get feedback on your own using the [Romberg Web App]().
 
 ## 🔋 BTTAI Fellowship Projects
 View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
