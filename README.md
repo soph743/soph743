@@ -26,7 +26,7 @@ Cloud & Tools: Docker, Git, GCP
 🔹 Wildfire Prediction Model – Model for predicting wildfires within 72 hours (95% accuracy at WiDS Datathon)
 
 ## 🔋 Capstone
-Learn about the Romberg test for balance and get feedback on your own using the [Romberg Web App]().
+Learn about the Romberg test for balance and get feedback on your own using the [Romberg Web App](https://a2approm.github.io/Manik_Data_For_Romberg/).
 
 ## 🔋 BTTAI Fellowship Projects
 View my Machine Learning Foundations projects [here](https://github.com/soph743/BTT_fellowship), created as part of a fellowship with Break Through Tech AI and Massachusetts Institute of Technology.
