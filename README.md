@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sophia Cherkaoui
 
-🎓 Bachelor's in Computer Science @ UMass '26 | Research Associate @ Kao Lab (UMass)
+💻 Research Associate @ Kao Lab (UMass Boston)
+
+🎓 Bachelor's in Computer Science @ UMass '26
 
 📍 Boston, MA | ✉️ sophia.cherkaoui001@umb.edu | 🌐 [Portfolio](https://github.com/soph743) | 💼 [LinkedIn](www.linkedin.com/in/sophiacherkaoui)
 
