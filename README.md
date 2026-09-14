@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sophia Cherkaoui
 
-🎓 Bachelor's in Computer Science @ UMass '26
+🎓 Bachelor's in Computer Science @ UMass '26 | Research Associate @ Kao Lab (UMass)
 
 📍 Boston, MA | ✉️ sophia.cherkaoui001@umb.edu | 🌐 [Portfolio](https://github.com/soph743) | 💼 [LinkedIn](www.linkedin.com/in/sophiacherkaoui)
 
@@ -25,7 +25,7 @@ Cloud & Tools: Docker, Git, GCP
 
 🔹 Wildfire Prediction Model – Model for predicting wildfires within 72 hours (95% accuracy at WiDS Datathon)
 
-## 🔋 Capstone
+## 🔋 Undergrad Capstone
 Learn about the Romberg test for balance and get feedback on your own using the [Romberg Web App](https://a2approm.github.io/Manik_Data_For_Romberg/).
 
 ## 🔋 BTTAI Fellowship Projects
