@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sophia Cherkaoui
 
-🎓 Bachelor's in Computer Science @ UMass '26 | Incoming SWE Intern @ Pega
+🎓 Bachelor's in Computer Science @ UMass '26
 
 📍 Boston, MA | ✉️ sophia.cherkaoui001@umb.edu | 🌐 [Portfolio](https://github.com/soph743) | 💼 [LinkedIn](www.linkedin.com/in/sophiacherkaoui)
 
